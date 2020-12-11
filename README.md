@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 
 **Languages and Tools:**  
 
-<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/php.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/visual-studio-code.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/main/assets/php.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/main/assets/visual-studio-code.png"></code>
