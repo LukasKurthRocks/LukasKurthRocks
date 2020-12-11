@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 ### Hi there 👋, I'm LukasKurthRocks!
 
 <a href="https://twitter.com/LukasKurthRock">
-  <img align="left" alt="LukasKurthRock | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/>
+  <img align="left" alt="LukasKurthRock | Twitter" width="21px" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/twitter.png"/>
+</a>
+<a href="https://discorg.gg/TODO">
+  <img align="left" alt="LukasKurthRock | Discord" width="21px" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/discord.png"/>
 </a>
 
 <br />
@@ -37,6 +40,46 @@ Here are some ideas to get you started:
 
 
 **Languages and Tools:**  
+FYI: Wanted to group them, but that does not look very nice!
 
-<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/main/assets/php.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/main/assets/visual-studio-code.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/google.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/windows.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/visual-studio-code.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/discord.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/twitter.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/covid-19.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/chrome.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/firefox.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/powertoys.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/twitch.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/linux.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/raspberry-pi.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/powershell.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/terminal.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/csharp.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/dotnet.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/mahapps.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/unity.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/json.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/material-design.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/azure.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/docker.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/sql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/sql-server.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/git.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/github.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/markdown.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/global-game-jam.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/ludum-dare.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/java.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/javafx.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/spring-boot.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/php.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/jquery.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/bootstrap.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/mysql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/wordpress.png"></code>
