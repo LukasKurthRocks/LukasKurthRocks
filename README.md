@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="https://twitter.com/LukasKurthRocks">@LukasKurthRocks</a> 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=LukasKurthRocks&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasKurthRocks&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=LukasKurthRocks&theme=slateorange&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasKurthRocks&theme=slateorange&layout=compact)
 
 ## My Repos
 
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=LukasKurthRocks&repo=SuperAdminPanel_Core&show_owner=true)](https://github.com/LukasKurthRocks/SuperAdminPanel_Core)
+[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=LukasKurthRocks&repo=SuperAdminPanel_Core&theme=slateorange&show_owner=true)](https://github.com/LukasKurthRocks/SuperAdminPanel_Core)
 
 
 
