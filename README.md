@@ -83,3 +83,9 @@ FYI: Wanted to group them, but that does not look very nice!
 <code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/wordpress.png"></code>
+
+## Helpful Links
+- [GitHub - Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+  - [Themes](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)
+  - [Example](https://github.com/shinokada/shinokada/blob/master/README.md)
+  - [Icons](https://github.com/github/explore/tree/master/topics)
