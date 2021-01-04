@@ -47,6 +47,8 @@ Neben der Arbeit versuche ich mich gerade in C# + Unity weiter zu bringen. Viele
 
 [![SuperAdminPanel_Core](https://github-readme-stats.vercel.app/api/pin/?username=LukasKurthRocks&repo=SuperAdminPanel_Core&theme=slateorange&show_owner=true)](https://github.com/LukasKurthRocks/SuperAdminPanel_Core)
 
+[![LukasKurthRocks_Private](https://github-readme-stats.vercel.app/api/pin/?username=LukasKurthRocks&repo=LukasKurthRocks_Private&theme=slateorange&show_owner=true)](https://github.com/LukasKurthRocks/LukasKurthRocks_Private)
+
 
 
 **Sprachen und Werkzeuge:**  
