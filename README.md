@@ -31,10 +31,12 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-Ich bin ein Super-Admin. Ich nutze die mir zur Verfügung stehenden Werkzeuge und Technologien, um mich und die Firma für die ich arbeite einen Scritt weiter zu bringen (sofern ich gelassen werde). Dazu nutze ich Visual Studio und PowerShell um meine Möglichkeiten zu erweitern bzw. Vorgänge zu vereinfachen. Vieles was ich momentan benutze habe ich mir selber beigebracht und fühle mich in den entsprechenden Bereichen wohl.
+Ich liebe technische Herausforderungen. Als Super-Admin nutze ich die mir zur Verfügung stehenden Werkzeuge und Technologien, um mich und meine Firma einen Scritt weiter zu bringen. Dabei arbeite ich unter anderem mit Exchange, AD, Teams, Veeam, VMWare und einigen anderen. Aktuell kommt dazu unter anderem Visual Studio und PowerShell zum Einsatz, mit deinen ich meine vorhandenen Möglichkeiten erweitere bzw. Vorgänge für mich und meine Kollegen vereinfache.
 
-Neben der Arbeit versuche ich mich gerade in C# + Unity weiter zu bringen. Viele Projekte wurden hier frisch angefangen und direkt wieder verworfen. Als Prokrastinat selbst dafür verantwortlich, gebe ich natürlich Anderen die Schuld, wie aktuell erschienene Spiele. Eines Tages werde ich das aber mal komplett durch arbeiten.
+### 🏁 Meine Ziele für 2021
+Ich möchte mir C#, Unity und Blender noch ein Stück näher bringen. Java habe ich durch ILS schon erlernt und C# ist davon nun nicht so weit entfernt. Ich habe hier immer wieder neu angefangen und einzelne kleine Fortschritte gemacht, aber da muss auch einmal mehr gehen. Fortschritte in PowerShell, AzureAD oder InTune würde ich natürlich auch gerne mal sehen, dafür wird momentan aber kein Budget bereit gestellt.
 
+### :page_with_curl: Kurzinformation
 - 🔭 Ich arbeite gerade an der Neusortierung meiner gesammelten PowerShell Werke.
 - 🌱 Ich lerne gerade C#, Unity, Blender und noch ein paar andere Sachen.
 - 📫 Wie man mich erreichen kann: <a href="https://twitter.com/LukasKurthRocks">@LukasKurthRocks</a> 
@@ -48,7 +50,6 @@ Neben der Arbeit versuche ich mich gerade in C# + Unity weiter zu bringen. Viele
 [![SuperAdminPanel_Core](https://github-readme-stats.vercel.app/api/pin/?username=LukasKurthRocks&repo=SuperAdminPanel_Core&theme=slateorange&show_owner=true)](https://github.com/LukasKurthRocks/SuperAdminPanel_Core)
 
 [![LukasKurthRocks_Private](https://github-readme-stats.vercel.app/api/pin/?username=LukasKurthRocks&repo=LukasKurthRocks_Private&theme=slateorange&show_owner=true)](https://github.com/LukasKurthRocks/LukasKurthRocks_Private)
-
 
 
 **Sprachen und Werkzeuge:**  
