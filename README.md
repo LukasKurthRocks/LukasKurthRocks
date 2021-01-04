@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 Ich bin ein Super-Admin. Ich nutze die mir zur Verfügung stehenden Werkzeuge und Technologien, um mich und die Firma für die ich arbeite einen Scritt weiter zu bringen (sofern ich gelassen werde). Dazu nutze ich Visual Studio und PowerShell um meine Möglichkeiten zu erweitern bzw. Vorgänge zu vereinfachen. Vieles was ich momentan benutze habe ich mir selber beigebracht und fühle mich in den entsprechenden Bereichen wohl.
 
-Neben der Arbeit versuche ich mich gerade in C# + Unity weiter zu bringen. Viele Projekte wurden hier frisch angefangen und direkt wieder verworfen. Als Prokrastinat selbst dafür verantwortlich, gebe ich natürlich anderen Gründen die Schuld, wie aktuelle Spiele. Eines Tages werde ich das aber mal komplett durch arbeiten.
+Neben der Arbeit versuche ich mich gerade in C# + Unity weiter zu bringen. Viele Projekte wurden hier frisch angefangen und direkt wieder verworfen. Als Prokrastinat selbst dafür verantwortlich, gebe ich natürlich Anderen die Schuld, wie aktuell erschienene Spiele. Eines Tages werde ich das aber mal komplett durch arbeiten.
 
 - 🔭 Ich arbeite gerade an der Neusortierung meiner gesammelten PowerShell Werke.
 - 🌱 Ich lerne gerade C#, Unity, Blender und noch ein paar andere Sachen.
