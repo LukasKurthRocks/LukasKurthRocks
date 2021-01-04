@@ -49,8 +49,6 @@ Ich möchte mir C#, Unity und Blender noch ein Stück näher bringen. Java habe 
 
 [![SuperAdminPanel_Core](https://github-readme-stats.vercel.app/api/pin/?username=LukasKurthRocks&repo=SuperAdminPanel_Core&theme=slateorange&show_owner=true)](https://github.com/LukasKurthRocks/SuperAdminPanel_Core)
 
-[![LukasKurthRocks_Private](https://github-readme-stats.vercel.app/api/pin/?username=LukasKurthRocks&repo=LukasKurthRocks_Private&theme=slateorange&show_owner=true)](https://github.com/LukasKurthRocks/LukasKurthRocks_Private)
-
 
 **Sprachen und Werkzeuge:**  
 FYI: Wollte die gruppieren, das sieht aber alles nicht aus.
@@ -96,3 +94,5 @@ FYI: Wollte die gruppieren, das sieht aber alles nicht aus.
 <code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/wordpress.png"></code>
+
+Sie haben das Ende der Seite erreicht[.](https://github.com/LukasKurthRocks/LukasKurthRocks_Private)
