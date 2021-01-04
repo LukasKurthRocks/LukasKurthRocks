@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, I'm LukasKurthRocks!
+### Hallo 👋, ich bin LukasKurthRocks!
 
 <a href="https://twitter.com/LukasKurthRock">
   <img align="left" alt="LukasKurthRock | Twitter" width="21px" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/twitter.png"/>
@@ -31,9 +31,13 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-- 🔭 I’m currently working on sorting my PowerShell Scripts and resorting them into GitHub Projects.
-- 🌱 I’m currently learning C#, Unity, Blender and many more other things.
-- 📫 How to reach me: <a href="https://twitter.com/LukasKurthRocks">@LukasKurthRocks</a> 
+Ich bin ein Super-Admin. Ich nutze die mir zur Verfügung stehenden Werkzeuge und Technologien, um mich und die Firma für die ich arbeite einen Scritt weiter zu bringen (sofern ich gelassen werde). Dazu nutze ich Visual Studio und PowerShell um meine Möglichkeiten zu erweitern bzw. Vorgänge zu vereinfachen. Vieles was ich momentan benutze habe ich mir selber beigebracht und fühle mich in den entsprechenden Bereichen wohl.
+
+Neben der Arbeit versuche ich mich gerade in C# + Unity weiter zu bringen. Viele Projekte wurden hier frisch angefangen und direkt wieder verworfen. Als Prokrastinat selbst dafür verantwortlich, gebe ich natürlich anderen Gründen die Schuld, wie aktuelle Spiele. Eines Tages werde ich das aber mal komplett durch arbeiten.
+
+- 🔭 Ich arbeite gerade an der Neusortierung meiner gesammelten PowerShell Werke.
+- 🌱 Ich lerne gerade C#, Unity, Blender und noch ein paar andere Sachen.
+- 📫 Wie man mich erreichen kann: <a href="https://twitter.com/LukasKurthRocks">@LukasKurthRocks</a> 
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=LukasKurthRocks&theme=slateorange&show_icons=true&count_private=true)
@@ -45,8 +49,8 @@ Here are some ideas to get you started:
 
 
 
-**Languages and Tools:**  
-FYI: Wanted to group them, but that does not look very nice!
+**Sprachen und Werkzeuge:**  
+FYI: Wollte die gruppieren, das sieht aber alles nicht aus.
 
 <code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/google.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/windows.png"></code>
@@ -90,7 +94,7 @@ FYI: Wanted to group them, but that does not look very nice!
 <code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/wordpress.png"></code>
 
-## Helpful Links
+## Nützliches
 - [GitHub - Readme Stats](https://github.com/anuraghazra/github-readme-stats)
   - [Themes](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)
   - [Example](https://github.com/shinokada/shinokada/blob/master/README.md)
