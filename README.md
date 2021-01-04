@@ -95,9 +95,3 @@ FYI: Wollte die gruppieren, das sieht aber alles nicht aus.
 <code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/wordpress.png"></code>
-
-## Nützliches
-- [GitHub - Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-  - [Themes](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)
-  - [Example](https://github.com/shinokada/shinokada/blob/master/README.md)
-  - [Icons](https://github.com/github/explore/tree/master/topics)
