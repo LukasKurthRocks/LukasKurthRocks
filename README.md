@@ -45,12 +45,12 @@ Ich möchte mir C#, Unity und Blender noch ein Stück näher bringen. Java habe 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=LukasKurthRocks&theme=slateorange&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasKurthRocks&theme=slateorange&layout=compact)
 
-## Repository Showcase
+### Repository Showcase
 
 [![SuperAdminPanel_Core](https://github-readme-stats.vercel.app/api/pin/?username=LukasKurthRocks&repo=SuperAdminPanel_Core&theme=slateorange&show_owner=true)](https://github.com/LukasKurthRocks/SuperAdminPanel_Core)
 
 
-**Sprachen und Werkzeuge:**  
+### Sprachen und Werkzeuge
 FYI: Wollte die gruppieren, das sieht aber alles nicht aus.
 
 <code><img height="40" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/google.png"></code>
