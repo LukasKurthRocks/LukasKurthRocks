@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 <a href="https://youtube.gg/TODO">
   <img align="left" alt="LukasKurthRock | YouTube" width="21px" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/discord.png"/>
 </a>
-<a href="https://example.gg/TODO">
-  <img align="left" alt="LukasKurthRock | HomePage" width="21px" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/discord.png"/>
+<a href="https://lukas.kurth.rocks">
+  <img align="left" alt="LukasKurthRock | HomePage" width="21px" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/favicon.png"/>
 </a>
 
 <br />
