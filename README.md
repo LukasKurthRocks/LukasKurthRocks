@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 
 ### Hallo 👋, ich bin LukasKurthRocks!
 
-<a href="https://twitter.com/LukasKurthRock">
+<a href="https://twitter.com/LukasKurthRock" target="_blank">
   <img align="left" alt="LukasKurthRock | Twitter" width="21px" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/twitter.png"/>
 </a>
-<a href="https://discorg.gg/TODO">
+<a href="https://discorg.gg/TODO" target="_blank">
   <img align="left" alt="LukasKurthRock | Discord" width="21px" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/discord.png"/>
 </a>
-<a href="https://youtube.gg/TODO">
+<a href="https://youtube.gg/TODO" target="_blank">
   <img align="left" alt="LukasKurthRock | YouTube" width="21px" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/discord.png"/>
 </a>
-<a href="https://lukas.kurth.rocks">
+<a href="https://lukas.kurth.rocks" target="_blank">
   <img align="left" alt="LukasKurthRock | HomePage" width="21px" src="https://raw.githubusercontent.com/LukasKurthRocks/LukasKurthRocks/master/assets/favicon.png"/>
 </a>
 
