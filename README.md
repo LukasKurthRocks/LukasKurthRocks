@@ -47,7 +47,9 @@ Ich möchte mir C#, Unity und Blender noch ein Stück näher bringen. Java habe 
 
 ### Repository Showcase
 
-[![Windows-10-Custom-ISO](https://github-readme-stats.vercel.app/api/pin/?username=LukasKurthRocks&repo=Windows-10-Custom-ISO&theme=slateorange&show_owner=true)](https://github.com/LukasKurthRocks/SuperAdminPanel_Core)
+[![Windows-10-Custom-ISO](https://github-readme-stats.vercel.app/api/pin/?username=LukasKurthRocks&repo=Windows-10-Custom-ISO&theme=slateorange)](https://github.com/LukasKurthRocks/Windows-10-Custom-ISO)
+
+[![Windows-10-Custom-ISO2](https://github-readme-stats.vercel.app/api/pin/?username=LukasKurthRocks&repo=Windows-10-Custom-ISO2&theme=slateorange&show_owner=true)](https://github.com/LukasKurthRocks/Windows-10-Custom-ISO2)
 
 
 ### Sprachen und Werkzeuge
