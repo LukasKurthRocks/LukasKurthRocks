@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-Ich liebe technische Herausforderungen. Als Super-Admin nutze ich die mir zur Verfügung stehenden Werkzeuge und Technologien, um mich und meine Firma einen Scritt weiter zu bringen. Dabei arbeite ich unter anderem mit Exchange, AD, Teams, Veeam, VMWare und einigen anderen. Aktuell kommt dazu unter anderem Visual Studio und PowerShell zum Einsatz, mit deinen ich meine vorhandenen Möglichkeiten erweitere bzw. Vorgänge für mich und meine Kollegen vereinfache.
+Ich liebe technische Herausforderungen. Als Super-Admin nutze ich die mir zur Verfügung stehenden Werkzeuge und Technologien, um mich und meine Firma einen Schritt weiter zu bringen. Dabei arbeite ich unter anderem mit Exchange, AD, Teams, Veeam, VMWare und einigen anderen. Aktuell kommt dazu unter anderem Visual Studio und PowerShell zum Einsatz, mit deinen ich meine vorhandenen Möglichkeiten erweitere bzw. Vorgänge für mich und meine Kollegen vereinfache.
 
 ### 🏁 Meine Ziele für 2021
 Ich möchte mir C#, Unity und Blender noch ein Stück näher bringen. Java habe ich durch ILS schon erlernt und C# ist davon nun nicht so weit entfernt. Ich habe hier immer wieder neu angefangen und einzelne kleine Fortschritte gemacht, aber da muss auch einmal mehr gehen. Fortschritte in PowerShell, AzureAD oder InTune würde ich natürlich auch gerne mal sehen, dafür wird momentan aber kein Budget bereit gestellt.
